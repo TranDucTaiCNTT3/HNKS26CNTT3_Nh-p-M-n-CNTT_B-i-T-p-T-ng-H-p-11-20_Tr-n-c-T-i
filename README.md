@@ -25,3 +25,4 @@ Get-ChildItem -Recurse -Force
 > Không upload file .env lên GitHub
 "# HNKS26CNTT3_Nh-p-M-n-CNTT_B-i-T-p-T-ng-H-p-11-c-T-i" 
 "# HNKS26CNTT3_Nh-p-M-n-CNTT_B-i-T-p-T-ng-H-p-11-20_Tr-n-c-T-i" 
+"# HNKS26CNTT3_Nh-p-M-n-CNTT_B-i-T-p-T-ng-H-p-11-20_Tr-n-c-T-i" 
